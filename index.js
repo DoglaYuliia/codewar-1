@@ -14,6 +14,7 @@ function goals (laLigaGoals, copaDelReyGoals, championsLeagueGoals) {
 }
 // вариант codewars
 const goals = (a,b,c) => a + b + c;
+//
 
 // 3
 //Make negative
