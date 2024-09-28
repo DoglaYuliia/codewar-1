@@ -17,7 +17,7 @@ const goals = (a,b,c) => a + b + c;
 //
 
 // 3
-//Make negative
+//Make negative //
 
 function makeNegative(num) {
     if (num > 0) {
